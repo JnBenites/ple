@@ -1,7 +1,5 @@
 # Semana 4
 
-Revisión de ortografía:
-
 ## Contenido
 Esta semana comenzaron las exposiciones de los trabajos grupales.
 

@@ -3,7 +3,6 @@
 ## Contenido
 Esta semana continuó las exposiciones de los trabajos grupales y se realizó la evaluación.
 
-## Contenido
 ### Medios y ayudas didácticas
 
 #### Medio didáctico
