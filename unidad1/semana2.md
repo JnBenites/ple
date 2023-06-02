@@ -67,7 +67,7 @@ La didáctica se encarga del acompañamiento y control del proceso de aprendizaj
 | Actividad | La cantidad de actividades no es lo importante, sino la actitud del estudiante frente a la tarea. Se centra en la participación activa del alumno en su proceso educativo. |
 
 
-### La didactica respone a las sigueites pregunta:
+### La didáctica responde a las siguientes pregunta:
 El trabajo del docente es descubrir y buscar nuevos caminos para dar solución a los problemas de la vida educativa.
 La didáctica responde a estas preguntas:
 
@@ -84,7 +84,7 @@ Enseñar y comprender la actualización del saber, específicamente cómo llevar
 
 ## Actividades
 
-### Trabajo autonomo en contacto con el docente
+### Trabajo autónomo en contacto con el docente
 - [Infografía sobre la importancia de la didáctica en el proceso de ensenanza-aprendizaje](https://infogram.com/trabajo-autonomo-1-1h8n6m3zp5oej4x?live)
 
 ## Reflexión
