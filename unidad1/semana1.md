@@ -3,10 +3,10 @@
 ## Contenido
 Esta semana se socializó el sílabo de la materia "Didáctica de la Informática" por parte del docente.
 
-    ¿Qué es didáctica?
-```
+¿Qué es didáctica?
+
 La didáctica puede considerarse como una disciplina pedagógica que analiza, comprende y mejora los procesos de enseñanza, abarcando tanto la formación docente como el conjunto de interacciones que se generan en la tarea educativa. Su objetivo principal es la adquisición de conocimiento.
-```
+
 
 ## Actividades
 

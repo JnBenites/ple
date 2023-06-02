@@ -1,8 +1,5 @@
 # Entorno Personal de Aprendizaje 
 
-DIDÁCTICA DE LA INFORMÁTICA
-
-
 Esta es mi Bitácora de aprendizaje de la materia de Didáctica de la Informática. En esta pagina compartiré mi experiencia en esta materia.
 
 ## Datos informativos
