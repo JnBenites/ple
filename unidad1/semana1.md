@@ -8,6 +8,7 @@ Esta semana se socializó el sílabo de la materia "Didáctica de la Informátic
 La didáctica puede considerarse como una disciplina pedagógica que analiza, comprende y mejora los procesos de enseñanza, abarcando tanto la formación docente como el conjunto de interacciones que se generan en la tarea educativa. Su objetivo principal es la adquisición de conocimiento.
 
 
+
 ## Actividades
 
 ###  Foro socialización sílabo
@@ -16,11 +17,18 @@ La didáctica puede considerarse como una disciplina pedagógica que analiza, co
 ### Evaluación Diagnóstica
 [![evaluaci-n-diagnostica.png](https://i.postimg.cc/xdhGPbc9/evaluaci-n-diagnostica.png)](https://postimg.cc/xkGbf8vZ)
 
+### Trabajo autonomo en contacto con el docente
+- [Infografía sobre la importancia de la didáctica en el proceso de ensenanza-aprendizaje](https://infogram.com/trabajo-autonomo-1-1h8n6m3zp5oej4x?live)
+
 ## Reflexión
+
+Basando de en que la didáctica se encarga de estudiar los procesos de enseñanza y aprendizaje, con el objetivo de diseñar y mejorar las estrategias, técnicas y recursos que se utilizan en el proceso educativo. Se busca que los docentes creen una sociedad de conocimiento adaptándose a  las nuevas cambios que se dan en la sociedad con el fin que generar una sociedad de conocimiento.
+Como futuro docente, para cumplir con el principio de adaptabilidad de la didáctica, me esforzaría en conocer a mis estudiantes y adaptarme a sus necesidades, basándome en sus intereses o habilidades y ajustar de mejor manera la metodología de enseñanza. Buscaría siempre diferentes recursos para enseñar de la forma más eficiente posible.
 
 ## Biografía de la semana
 
 - [📕 sílabo](https://drive.google.com/file/d/1skfNpjPxMlDCuDpDIjHIRTfoF82HeE2K/view?usp=sharing)
 - [📗 material didáctivo](https://www.calameo.com/read/006795831a698a50dc16a?page=1)
+- [🎞¿Qué es 'Didáctica'?](https://www.youtube.com/watch?v=3Nt8xc31ymU)
 
 
