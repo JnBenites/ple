@@ -16,10 +16,10 @@ Los escenarios educativos son entornos o situaciones en los que se lleva a cabo 
 </Lista>
 
 ### Los pilares de la neuroeducación
-    Aprender a CONOCER: motivación
-    Aprender a HACER: práctica-experiencia
-    Aprender a CONVIVIR: Neuronas espejo (empatía)
-    Aprender a SER: Madurez Cerebral (autoregulación)
+  -  Aprender a CONOCER: motivación
+  -  Aprender a HACER: práctica-experiencia
+  -  Aprender a CONVIVIR: Neuronas espejo (empatía)
+  -  Aprender a SER: Madurez Cerebral (autoregulación)
 
 ### Tipos de Aprendizaje
 
@@ -43,6 +43,30 @@ Las competencias docentes son el conjunto de conocimientos, habilidades, actitud
     Reflexión continua y mantenimiento de registros precisos.
 </details>
 
+### Elementos didácticos
+- El alumno: quien guía su aprendizaje -> centro del aprendizaje.
+- El profesor: quien guía, asesora y acompaña.
+- Los objetivos: objetivos de acuerdo al currículo nacional.
+- Contenidos: contenidos conceptuales -> contenidos procedimientos y actividades.
+- Los métodos o teorías: técnicas de aprendizaje y enseñanza.
+- El medio: escenario donde se realiza el proceso de enseñanza-aprendizaje.
+
+### Estrategias didacticas
+Guía el proceso pedagógico con el fin de cumplir objetivos de la formación académica.
+- Estrategia: proceso, modelos y tácticas que aplica el docente (técnica).
+- Didáctica: plan de acción del docente (práctica).
+
+```
+              -- Tecnicas
+Estrategias ---- Procesps
+              -- Metodos
+```
+
+- Técnica: conjunto de procedimientos que dan origen a las actividades de aprendizaje.
+- Procedimiento: conjunto de pasos secuenciales para cumplir la técnica.
+- Métodos: conjunto de técnicas que se van a utilizar para ejecutar el aprendizaje.
+- Estrategias: la habilidad para planificar, ejecutar y evaluar una actividad de aprendizaje.
+
 ## Actividades
 
 ### Trabajo autónomo 2. video
@@ -64,6 +88,8 @@ Los docentes necesitan tener una formación pedagógica y didáctica que se enfo
 Los escenarios educativos son entornos o situaciones en los que se lleva a cabo el proceso de enseñanza y aprendizaje. Estos pueden ser físicos (aula o laboratorio), virtuales (plataformas en línea). Los escenarios educativos incluyen recursos, materiales y espacios en los que se desarrollan las actividades educativas.
 Las competencias docentes son los conocimientos, habilidades, actitudes y valores que posee un docente para realizar su labor educativa. Entre las ompetencias esta la capacidad para planificar y organizar clases, seleccionar y aplicar estrategias de enseñanza, evaluar el aprendizaje de los estudiantes.
 
+¿Frente a lo revisado, estás convencido de que la formación docente es un papel fundamental dentro del proceso de enseñanza-aprendizaje?
+Desde mi punto de vista, luego de revisar la temática, puedo concluir que la formación del docente es fundamental, ya que le brinda las pautas para realizar su actividad académica de forma óptima, teniendo en cuenta los objetivos curriculares y el escenario en el que se encuentran sus alumnos, así como adaptarse y prosperar.
 ## Biografía de la semana
 - [📗 Material didáctivo](https://www.calameo.com/read/006795831a698a50dc16a?page=1)
 - [💻Presentacion](https://docs.google.com/presentation/d/1VHPwsdRK05uwNSrWJrR0JzC9Tc5FIFyZeJhCbo8WVLo/edit#slide=id.g1e2aa3ca207_0_0)
