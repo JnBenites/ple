@@ -27,4 +27,19 @@ Como futuro docente, para cumplir con el principio de adaptabilidad de la didác
 - [📗 material didáctivo](https://www.calameo.com/read/006795831a698a50dc16a?page=1)
 - [🎞¿Qué es 'Didáctica'?](https://www.youtube.com/watch?v=3Nt8xc31ymU)
 
+<br>
+<br>
+
+[Atras](/README.MD)
+[Inicio](/README.MD)
+[Siguente](/unidad1/semana2.md)
+
+[![Atras: <](/icons/arrow-forward-circle-outline.svg)](/README.MD)
+[![Home: <](/icons/arrow-forward-circle-outline.svg)](/README.MD)
+[![Siguente: <](/icons/arrow-forward-circle-outline.svg)](/unidad1/semana2.md)
+
+[![Atrás: <](/icons/arrow-forward-circle-outline.svg)](/README.MD)
+[![Home: <](/icons/arrow-forward-circle-outline.svg)](/README.MD)
+[![Siguiente: <](/icons/arrow-forward-circle-outline.svg)](/unidad1/semana2.md)
+
 
