@@ -63,4 +63,4 @@ La gamificación es una metodología que incorpora elementos y mecánicas de jue
 <br>
 
 [Atras  ](/unidad1/semana4.md)
-[| Inicio | ](/)
+|

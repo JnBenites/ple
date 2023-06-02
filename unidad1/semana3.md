@@ -100,5 +100,5 @@ Desde mi punto de vista, luego de revisar la temática, puedo concluir que la fo
 <br>
 
 [Atras  ](/unidad1/semana2.md)
-[| Inicio | ](/)
+|
 [   Siguente](/unidad1/semana4.md)

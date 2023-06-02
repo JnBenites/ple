@@ -31,7 +31,7 @@ Como futuro docente, para cumplir con el principio de adaptabilidad de la didác
 <br>
 
 [Atras  ](/README.MD)
-[| Inicio | ](./)
+|
 [   Siguente](/unidad1/semana2.md)
 
 

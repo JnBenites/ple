@@ -101,5 +101,5 @@ La didáctica tiene objetivos fundamentales para llevar a cabo el propósito edu
 <br>
 
 [Atras  ](/unidad1/semana1.md)
-[| Inicio | ](/)
+|
 [   Siguente](/unidad1/semana3.md)
