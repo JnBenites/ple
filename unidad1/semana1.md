@@ -30,16 +30,8 @@ Como futuro docente, para cumplir con el principio de adaptabilidad de la didác
 <br>
 <br>
 
-[Atras](/README.MD)
-[Inicio](/README.MD)
-[Siguente](/unidad1/semana2.md)
-
-[![Atras: <](/icons/arrow-forward-circle-outline.svg)](/README.MD)
-[![Home: <](/icons/arrow-forward-circle-outline.svg)](/README.MD)
-[![Siguente: <](/icons/arrow-forward-circle-outline.svg)](/unidad1/semana2.md)
-
-[![Atrás: <](/icons/arrow-forward-circle-outline.svg)](/README.MD)
-[![Home: <](/icons/arrow-forward-circle-outline.svg)](/README.MD)
-[![Siguiente: <](/icons/arrow-forward-circle-outline.svg)](/unidad1/semana2.md)
+[Atras  ](/README.MD)
+[| Inicio | ](/README.MD)
+[   Siguente](/unidad1/semana2.md)
 
 

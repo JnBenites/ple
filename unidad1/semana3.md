@@ -95,3 +95,10 @@ Desde mi punto de vista, luego de revisar la temática, puedo concluir que la fo
 - [💻Presentacion](https://docs.google.com/presentation/d/1VHPwsdRK05uwNSrWJrR0JzC9Tc5FIFyZeJhCbo8WVLo/edit#slide=id.g1e2aa3ca207_0_0)
 - [📹 Video](https://youtu.be/fiVbWSG2kCU)
 - [📚 La eficiencia docente en la práctica educativa](http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S1315-95182010000300009)
+
+<br>
+<br>
+
+[Atras  ](/unidad1/semana2.md)
+[| Inicio | ](/README.MD)
+[   Siguente](/unidad1/semana4.md)

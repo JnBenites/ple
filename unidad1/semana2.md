@@ -96,3 +96,10 @@ La didáctica tiene objetivos fundamentales para llevar a cabo el propósito edu
 - [👶 Etapas del Desarrollo Infantil](http://www.oas.org/udse/dit2/que-es/etapas.aspx)
 - [💻 Principios pedagógicos que sustentan el Plan de estudio](https://nivelacionplandeestudio2011.wordpress.com/caracteristicas/principios-pedagogicos-que-sustentan-el-plan-de-estudio/#:~:text=Los%20principios%20pedag%C3%B3gicos%20son%20condiciones,mejora%20de%20la%20calidad%20educativa.)
 - [👨‍🏫 Lineamientos para la construcción de la Propuesta Pedagógica](https://educacion.gob.ec/wp-content/uploads/downloads/2019/06/Propuesta-Pedagogica.pdf)
+
+<br>
+<br>
+
+[Atras  ](/unidad1/semana1.md)
+[| Inicio | ](/README.MD)
+[   Siguente](/unidad1/semana3.md)

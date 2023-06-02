@@ -95,3 +95,10 @@ Las técnicas de enseñanza son estrategias y métodos utilizados por los docent
 - [🎴 Técnicas de Enseñanza](https://drive.google.com/file/d/1Sx_RIrt4q5AUUUjuOVhOIBW5UHmP88Gn/view?usp=share_link)
 - [🎴 Técnicas de Aprendizaje 1](https://drive.google.com/file/d/1ZKRYNxcMC9hu_KzDh2YVjv5DK5jQG5iW/view?usp=sharing)
 - [🎴 Técnicas de Aprendizaje 2](https://drive.google.com/file/d/1GdKu-6454JDzoICRDwuAFEh-9I-TbbLf/view?usp=sharing)
+
+<br>
+<br>
+
+[Atras  ](/unidad1/semana3.md)
+[| Inicio | ](/README.MD)
+[   Siguente](/unidad1/semana5.md)
