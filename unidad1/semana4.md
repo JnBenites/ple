@@ -100,5 +100,5 @@ Las técnicas de enseñanza son estrategias y métodos utilizados por los docent
 <br>
 
 [Atras  ](/unidad1/semana3.md)
-[| Inicio | ](/README.MD)
+[| Inicio | ](/)
 [   Siguente](/unidad1/semana5.md)
