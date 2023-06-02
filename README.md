@@ -13,10 +13,10 @@ Esta es mi Bitácora de aprendizaje de la materia de Didáctica de la Informáti
 ## índice
 
 ### Unidad 1
-  - [Semana 5](/unidad1/Semana1.md)
-  - [Semana 5](/unidad1/Semana2.md)
-  - [Semana 5](/unidad1/Semana3.md)
-  - [Semana 5](/unidad1/Semana4.md)
+  - [Semana 1](/unidad1/Semana1.md)
+  - [Semana 2](/unidad1/Semana2.md)
+  - [Semana 3](/unidad1/Semana3.md)
+  - [Semana 4](/unidad1/Semana4.md)
   - [Semana 5](/unidad1/Semana5.md)
 
 
