@@ -2,7 +2,7 @@
 
 ## Contenido
 Esta semana de reviso los objetivos y los principios de la didactica.
-
+El acto didáctico se basa en el uso de metodologías y estrategias por parte del docente, teniendo en cuenta los principios didácticos. Estos principios proporcionan pautas y orientaciones para guiar el proceso de enseñanza y aprendizaje.
 ### Objetivos de la didáctica
 
 Segun Imideo G Nérici los objetivos d ela didactivas son:
